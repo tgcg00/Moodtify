@@ -114,7 +114,7 @@ body::before {
 }
 
 .header-logo {
-    width: 100px;
+    width: 300px;
     height: auto;
     opacity: 0.9;
 }
@@ -258,7 +258,7 @@ body::before {
 }
 
 .footer-logo {
-    width: 60px;
+    width: 300px;
     height: auto;
     opacity: 0.8;
     margin-bottom: 1rem;
