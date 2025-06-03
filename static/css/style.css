@@ -5,8 +5,8 @@
     --secondary-color: #1ed760;
     --dark-bg: #121212;
     --dark-surface: #1e1e1e;
-    --light-text: #ffffff;
-    --muted-text: #b3b3b3;
+    --light-text: #000000;
+    --muted-text: #000000;
     --accent-color: #ff6b6b;
     --shadow-color: rgba(0, 0, 0, 0.3);
 
@@ -265,14 +265,14 @@ body::before {
 }
 
 .copyright {
-    font-size: 1rem;
+    font-size: 2rem;
     color: var(--muted-text);
     margin-bottom: 0.5rem;
 }
 
 .developer {
     font-family: 'Playfair Display', serif;
-    font-size: 0.9rem;
+    font-size: 1.9rem;
     color: var(--muted-text);
 }
 
