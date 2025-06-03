@@ -265,14 +265,15 @@ body::before {
 }
 
 .copyright {
-    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
     color: var(--muted-text);
     margin-bottom: 0.5rem;
 }
 
 .developer {
     font-family: 'Playfair Display', serif;
-    font-size: 1.9rem;
+    font-size: 1.5rem;
     color: var(--muted-text);
 }
 
